@@ -1219,8 +1219,8 @@
       "x64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2016/09/windows10.0-kb3193494-x64_171738fb9de59d92ccc90c3c0788afa2a3625f61.msu"
     },
     "KB3194496": {
-      "x86": null,
-      "x64": null
+      "x86": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2016/09/windows10.0-kb3194496-x86_f5ab829a5d2fad9d625797df46ab6ea95cfd78e6.cab",
+      "x64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/crup/2016/09/windows10.0-kb3194496-x64_2cacef6b46462af81dd957d5b883f32665aad56e.cab"
     },
     "KB3194798": {
       "x86": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2016/10/windows10.0-kb3194798-x86_30ca81056fa468110773767f5b3de65711809c90.msu",
@@ -1615,12 +1615,12 @@
       "x64": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2020/08/windows10.0-kb4571694-x64_220af1e3a18ef36cb4abe3d34a3ce15ce656753b.msu"
     },
     "KB4577015": {
-      "x86": null,
+      "x86": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2020/09/windows10.0-kb4577015-x86_c89b2198d21dd338f88b012fe7558f24248e931f.msu",
       "x64": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2020/09/windows10.0-kb4577015-x64_0e838646b432d7b5360fffd0f12365ca181d475d.msu"
     },
     "KB4580346": {
-      "x86": null,
-      "x64": null
+      "x86": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2020/10/windows10.0-kb4580346-x86_09eb1c3d41ffff06dd253c58fe4d077515e74de6.msu",
+      "x64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2020/10/windows10.0-kb4580346-x64_1b5d07a6251f5794fe6a6c0069d39d302c5412d3.msu"
     },
     "KB4586830": {
       "x86": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2020/11/windows10.0-kb4586830-x86_fa241c063e0dfef578730997c1247c6f0b2dfb49.msu",
@@ -1668,7 +1668,7 @@
     },
     "KB5004948": {
       "x86": null,
-      "x64": null
+      "x64": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2021/07/windows10.0-kb5004948-x64_206b586ca8f1947fdace0008ecd7c9ca77fd6876.msu"
     },
     "KB5005043": {
       "x86": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2021/08/windows10.0-kb5005043-x86_7e72b64b264e89ec87cf35af180b43c879b3ef5b.msu",
@@ -3796,7 +3796,7 @@
     "KB4522016": {
       "x86": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2019/09/windows10.0-kb4522016-x86_f08d5d39d31737cf02850ea771578744267a2ea1.msu",
       "x64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2019/09/windows10.0-kb4522016-x64_c348c949121cdc6c4defacee70d6060ebb0d8442.msu",
-      "arm64": "https://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2019/09/windows10.0-kb4522016-arm64_a87772302136f33858f278130959aa182ed783b5.msu"
+      "arm64": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2019/09/windows10.0-kb4522016-arm64_a87772302136f33858f278130959aa182ed783b5.msu"
     },
     "KB4522355": {
       "x86": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2019/10/windows10.0-kb4522355-x86_7f6e5200af51ec6a8a78b292571423ecc4c6804f.msu",
