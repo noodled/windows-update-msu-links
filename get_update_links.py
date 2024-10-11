@@ -14,20 +14,29 @@ session = requests.Session()
 
 def get_update_url_from_text(text: str, arch: str, update_kb: str):
     match = re.findall(
-        rf'\bhttps?://[^/]*\.(?:windowsupdate|microsoft)\.com/\S*?/windows[^-]*-{re.escape(update_kb.lower())}-{re.escape(arch.lower())}_\S*?\.(?:msu|cab)\b',
+        rf'\bhttps?://[^/]*\.(?:windowsupdate|microsoft)\.com/\S*?/windows[^-]*-{re.escape(update_kb.lower())}-{re.escape(arch.lower())}_\S*?\.msu\b',
         text,
     )
     if match:
         results = set(match)
-        if len(results) == 1:
-            return results.pop()
 
-        print(f'Found multiple results for {update_kb}-{arch}')
+        if len(results) > 1:
+            results_no_delta = [x for x in results if '_delta_' not in x]
+            if len(results_no_delta) == 1:
+                results = results_no_delta
+
+        if len(results) == 1:
+            url = results.pop()
+            url = re.sub(r'^https?://', 'https://', url)
+            url = re.sub(r'^https://download\.windowsupdate\.com/', 'https://catalog.s.download.windowsupdate.com/', url)
+            return url
+
+        print(f'> Found multiple results for {update_kb}-{arch}')
     else:
         if re.search(
             rf'{re.escape(update_kb)}[-_]{re.escape(arch)}', text, flags=re.IGNORECASE
         ):
-            print(f'Unsupported format? Found {update_kb}-{arch}')
+            print(f'> Unsupported format? Found {update_kb}-{arch}')
 
     return None
 
@@ -71,26 +80,25 @@ def get_update_url_deskmodder(arch: str, update_kb: str):
     return None
 
 
-upd1 = Path('upd1.txt').read_text(encoding='utf-8')
 mydigitallife = Path('mydigitallife.txt').read_text(encoding='utf-8')
 mydigitallife = mydigitallife.splitlines()
 mydigitallife = [x.lower() for x in mydigitallife if 'http' in x.lower()]
 mydigitallife = '\n'.join(mydigitallife)
 
 def get_update_url(arch: str, windows_version: str, update_kb: str):
+    # url = get_update_url_deskmodder(arch, update_kb)
+    # if url:
+    #     return url
+
     # url = get_update_url_from_text(upd1, arch, update_kb)
     # if url:
     #     return url
-    
-    # url = get_update_url_from_text(mydigitallife, arch, update_kb)
-    # if url:
-    #     return url
 
-    url = get_update_from_update_catalog(arch, windows_version, update_kb)
+    url = get_update_url_from_text(mydigitallife, arch, update_kb)
     if url:
         return url
 
-    # url = get_update_url_deskmodder(arch, update_kb)
+    # url = get_update_from_update_catalog(arch, windows_version, update_kb)
     # if url:
     #     return url
 
@@ -130,8 +138,8 @@ def main():
                     links = update_links.setdefault(windows_version, {}).setdefault(
                         update_kb, {}
                     )
-                    # if links.get(arch):
-                    #     continue
+                    if links.get(arch):
+                        continue
 
                     url = get_update_url(arch, windows_version, update_kb)
                     links[arch] = url
