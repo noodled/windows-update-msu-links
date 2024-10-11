@@ -95,11 +95,8 @@ def get_update(arch: str, windows_version: str, update_kb: str):
     return update_uid, update_title
 
 
-def get_update_from_update_catalog(arch: str, windows_version: str, update_kb: str):
-    try:
-        update_uid, update_title = get_update(arch, windows_version, update_kb)
-    except UpdateNotFound:
-        return None
+def get_update_from_update_catalog_impl(arch: str, windows_version: str, update_kb: str):
+    update_uid, update_title = get_update(arch, windows_version, update_kb)
 
     download_urls = get_update_download_urls(update_uid)
     if not download_urls:
@@ -112,3 +109,13 @@ def get_update_from_update_catalog(arch: str, windows_version: str, update_kb: s
         raise Exception(f'Expected one update URL, found {len(download_urls)}')
 
     return download_urls[0]
+
+
+def get_update_from_update_catalog(arch: str, windows_version: str, update_kb: str):
+    try:
+        return get_update_from_update_catalog_impl(arch, windows_version, update_kb)
+    except UpdateNotFound:
+        return None
+    except Exception as e:
+        print(f'Failed to get update: {e}')
+        return None
