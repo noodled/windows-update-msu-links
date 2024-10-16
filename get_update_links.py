@@ -1,4 +1,5 @@
 import json
+from collections import OrderedDict
 from pathlib import Path
 
 from utils.get_list_of_updates import main as get_list_of_updates
@@ -11,6 +12,21 @@ def get_update_url(arch: str, windows_version: str, update_kb: str):
         return url
 
     return None
+
+
+def windows_versions_sort_key(kv):
+    parts = kv[0].split('-')
+    if len(parts) == 1:
+        return (10, parts[0])
+    elif len(parts) == 2:
+        return (int(parts[0]), parts[1])
+    else:
+        raise Exception(f'Invalid Windows version: {kv}')
+
+
+def arch_sort_key(kv):
+    archs = ['x86', 'x64', 'arm64']
+    return archs.index(kv[0])
 
 
 def main():
@@ -52,6 +68,23 @@ def main():
                     print(f'{windows_version}-{update_kb}-{arch}: {url}')
     except KeyboardInterrupt:
         print('Interrupted...')
+
+    # Sort keys.
+    update_links = OrderedDict(
+        sorted(update_links.items(), key=windows_versions_sort_key)
+    )
+
+    for windows_version in update_links:
+        update_links[windows_version] = OrderedDict(
+            sorted(update_links[windows_version].items())
+        )
+
+        for update_kb in update_links[windows_version]:
+            update_links[windows_version][update_kb] = OrderedDict(
+                sorted(
+                    update_links[windows_version][update_kb].items(), key=arch_sort_key
+                )
+            )
 
     with update_links_path.open('w') as f:
         json.dump(update_links, f, indent=2)
