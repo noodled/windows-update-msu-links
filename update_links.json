@@ -4177,6 +4177,11 @@
       "x86": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2024/09/windows10.0-kb5043131-x86_c54ca01f950849114b3dd41e8fdeadf02684df53.msu",
       "x64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2024/09/windows10.0-kb5043131-x64_e4ab598645e70f061e667e372dc288a83afa862b.msu",
       "arm64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2024/09/windows10.0-kb5043131-arm64_7a9b60a2423d09bea4724895158f9625efaa6e41.msu"
+    },
+    "KB5045594": {
+      "x86": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2024/10/windows10.0-kb5045594-x86_e33e6b3d18700ec850b06f6780abfea9e165888c.msu",
+      "x64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2024/10/windows10.0-kb5045594-x64_a0c7d288c87e76eab9f78f8f8eec17a6dec2b884.msu",
+      "arm64": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2024/10/windows10.0-kb5045594-arm64_8cf5095d2e6fb513116fffea039571cc397cc4aa.msu"
     }
   },
   "11-21H2": {
@@ -4629,6 +4634,10 @@
     "KB5044285": {
       "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f46df37a-242e-454c-8d81-b505c4ec7473/public/windows11.0-kb5044285-x64_0879eebfa8d66123e40f2c2614bcfd16d053abe3.msu",
       "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6d1af0ed-7afc-40a5-bfca-c7107cbae831/public/windows11.0-kb5044285-arm64_b1825c723f9bcb1638326dd8badd1a9ccc54e78e.msu"
+    },
+    "KB5044380": {
+      "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/1aad0aea-5ed1-4991-855c-d25f860ed071/public/windows11.0-kb5044380-x64_2935c0da007587832f20c51abae1d6f8c68155ca.msu",
+      "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/eb9b7cfa-7e77-467c-8c9f-64b6d788e411/public/windows11.0-kb5044380-arm64_e44ef01414f3bb4b4e9a495b286ea45a9d8a6d31.msu"
     }
   },
   "11-24H2": {
