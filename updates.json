@@ -769,6 +769,15 @@
             "releaseDate": "2024-11-21",
             "releaseVersion": "22621.4541",
             "updateUrl": "https://support.microsoft.com/help/5046732"
+        },
+        "KB5048685": {
+            "heading": "December 10, 2024&#x2014;KB5048685 (OS Builds 22621.4602 and 22631.4602)",
+            "otherWindowsVersions": [
+                "11-23H2"
+            ],
+            "releaseDate": "2024-12-10",
+            "releaseVersion": "22621.4602",
+            "updateUrl": "https://support.microsoft.com/help/5048685"
         }
     },
     "11-24H2": {
@@ -843,6 +852,12 @@
             "releaseDate": "2024-11-21",
             "releaseVersion": "26100.2454",
             "updateUrl": "https://support.microsoft.com/help/5046740"
+        },
+        "KB5048667": {
+            "heading": "December 10, 2024&#x2014;KB5048667 (OS Build 26100.2605)",
+            "releaseDate": "2024-12-10",
+            "releaseVersion": "26100.2605",
+            "updateUrl": "https://support.microsoft.com/help/5048667"
         }
     },
     "1507": {
@@ -1654,6 +1669,12 @@
             "releaseDate": "2024-11-12",
             "releaseVersion": "10240.20826",
             "updateUrl": "https://support.microsoft.com/help/5046665"
+        },
+        "KB5048703": {
+            "heading": "December 10, 2024-KB5048703 (OS Build 10240.20857)",
+            "releaseDate": "2024-12-10",
+            "releaseVersion": "10240.20857",
+            "updateUrl": "https://support.microsoft.com/help/5048703"
         }
     },
     "1511": {
@@ -2891,6 +2912,12 @@
             "releaseDate": "2024-11-12",
             "releaseVersion": "14393.7515",
             "updateUrl": "https://support.microsoft.com/help/5046612"
+        },
+        "KB5048671": {
+            "heading": "December 10, 2024&#x2014;KB5048671 (OS Build 14393.7606)",
+            "releaseDate": "2024-12-10",
+            "releaseVersion": "14393.7606",
+            "updateUrl": "https://support.microsoft.com/help/5048671"
         }
     },
     "1703": {
@@ -5250,6 +5277,12 @@
             "releaseDate": "2024-11-12",
             "releaseVersion": "17763.6532",
             "updateUrl": "https://support.microsoft.com/help/5046615"
+        },
+        "KB5048661": {
+            "heading": "December 10, 2024&#x2014;KB5048661 (OS Build 17763.6659)",
+            "releaseDate": "2024-12-10",
+            "releaseVersion": "17763.6659",
+            "updateUrl": "https://support.microsoft.com/help/5048661"
         }
     },
     "1903": {
@@ -6669,6 +6702,15 @@
             "releaseDate": "2024-11-12",
             "releaseVersion": "19044.5131",
             "updateUrl": "https://support.microsoft.com/help/5046613"
+        },
+        "KB5048652": {
+            "heading": "December 10, 2024&#x2014;KB5048652 (OS Builds 19044.5247 and 19045.5247)",
+            "otherWindowsVersions": [
+                "22H2"
+            ],
+            "releaseDate": "2024-12-10",
+            "releaseVersion": "19044.5247",
+            "updateUrl": "https://support.microsoft.com/help/5048652"
         }
     },
     "22H2": {
