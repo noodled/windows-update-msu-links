@@ -4238,6 +4238,11 @@
       "x86": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2024/11/windows10.0-kb5046714-x86_10696daa84016c808f03bdc62827819adaa1268b.msu",
       "x64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2024/11/windows10.0-kb5046714-x64_38071c53bb5cd71abc8f3a43fe6f3a751b967b88.msu",
       "arm64": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2024/11/windows10.0-kb5046714-arm64_a637e62d1e73a04fe661db97b3ebcd3ad7809587.msu"
+    },
+    "KB5050081": {
+      "x86": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2025/01/windows10.0-kb5050081-x86_6edf662f5c9bb80cca2d2de325a7a04134256f97.msu",
+      "x64": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2025/01/windows10.0-kb5050081-x64_33cfeb4c98c409642bfe7516e9ed1bcaada6d252.msu",
+      "arm64": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2025/01/windows10.0-kb5050081-arm64_2321e3989ecbeb506f836436412c4876c6ee9c48.msu"
     }
   },
   "11-21H2": {
@@ -4768,6 +4773,10 @@
     "KB5050009": {
       "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/66557ecc-650e-4c70-8baf-c624c4de912f/public/windows11.0-kb5050009-x64_97aac2ab4f607b11d50ad2fd88a5841ee0b18dd5.msu",
       "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/fb50861d-95ca-47ee-80f0-7bee850d0674/public/windows11.0-kb5050009-arm64_d3440f1c6b2b9471cd2cdfae7b360006d847d505.msu"
+    },
+    "KB5050094": {
+      "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/2d3f9ba9-5096-4b23-9709-3af7d7a2103f/public/windows11.0-kb5050094-x64_3d5a5f9ef20fc35cc1bd2ccb08921ee8713ce622.msu",
+      "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f69fb175-1bfd-4619-9005-8d28354ed795/public/windows11.0-kb5050094-arm64_824ad7a75acddd5b6ee9e5c042a408df34835491.msu"
     }
   }
 }
