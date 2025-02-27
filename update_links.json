@@ -4260,6 +4260,11 @@
       "x86": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2025/01/windows10.0-kb5050081-x86_6edf662f5c9bb80cca2d2de325a7a04134256f97.msu",
       "x64": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2025/01/windows10.0-kb5050081-x64_33cfeb4c98c409642bfe7516e9ed1bcaada6d252.msu",
       "arm64": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2025/01/windows10.0-kb5050081-arm64_2321e3989ecbeb506f836436412c4876c6ee9c48.msu"
+    },
+    "KB5052077": {
+      "x86": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2025/02/windows10.0-kb5052077-x86_89f0fa47dd8be27c9616d89f6021d64029c51d9a.msu",
+      "x64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2025/02/windows10.0-kb5052077-x64_1987c6c66af789df6f27c7d210e44f6fe9f2c4d0.msu",
+      "arm64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2025/02/windows10.0-kb5052077-arm64_c9c5bdda80f754c8a4b5285c71f21b1832eccf8d.msu"
     }
   },
   "11-21H2": {
@@ -4740,6 +4745,10 @@
     "KB5051989": {
       "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/1a498d43-5bb1-4341-b7a8-6a025393173e/public/windows11.0-kb5051989-x64_ce6a034d2385b0623c3182cf396755ef5ad05483.msu",
       "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b743abef-7992-4fbc-8101-8bb75758faba/public/windows11.0-kb5051989-arm64_4299ee1a28144074d40f81ca36b154556c06b598.msu"
+    },
+    "KB5052094": {
+      "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/23fc3e11-c882-440a-b204-3fd16c443443/public/windows11.0-kb5052094-x64_52adea5d5c4029eb04c8766822416804968a472b.msu",
+      "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b5a715b0-4a06-409b-82cf-9a83d57200bf/public/windows11.0-kb5052094-arm64_977968d5a9ac4e199d8c5f6cc250146264d1fd31.msu"
     }
   },
   "11-24H2": {
@@ -4806,6 +4815,10 @@
     "KB5051987": {
       "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/d94b06df-34e8-42be-9e62-afe448c65da8/public/windows11.0-kb5051987-x64_199ed7806a74fe78e3b0ef4f2073760000f71972.msu",
       "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/4aa9bb0c-22b6-4cb4-8766-210d36af892f/public/windows11.0-kb5051987-arm64_f3d3fd9c4f73ab187e84f1c21bf778e9da06597a.msu"
+    },
+    "KB5052093": {
+      "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b6165564-182c-44e0-b274-144233082b4e/public/windows11.0-kb5052093-x64_1c58dde6bb2c127999e179992892035d620d4552.msu",
+      "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8a3f7784-ae82-427d-bdb4-e18799d8c44c/public/windows11.0-kb5052093-arm64_49c376a45db51fb224c182fa433341c597311abe.msu"
     }
   }
 }
