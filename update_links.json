@@ -559,6 +559,10 @@
     "KB5052040": {
       "x86": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2025/02/windows10.0-kb5052040-x86_75a60b246a09e936c1534f7a981da92d3d9ad7d3.msu",
       "x64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2025/02/windows10.0-kb5052040-x64_38da16d13e0efd3f4d205528600d9d781014bea2.msu"
+    },
+    "KB5053618": {
+      "x86": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2025/03/windows10.0-kb5053618-x86_e781767fcaa64cc884bbbd32c1f4c3a23ba199b2.msu",
+      "x64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2025/03/windows10.0-kb5053618-x64_dcbe6ce646467a387dbba0387e81f4ba38385dce.msu"
     }
   },
   "1511": {
@@ -1403,6 +1407,10 @@
     "KB5052006": {
       "x86": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2025/02/windows10.0-kb5052006-x86_7fb23e800294c43dc3c04a3159567948135da30b.msu",
       "x64": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2025/02/windows10.0-kb5052006-x64_426f068f41aef283b2581b941fb34b45855df223.msu"
+    },
+    "KB5053594": {
+      "x86": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2025/03/windows10.0-kb5053594-x86_324af6406bcd2f26f69e5a0c36c530f74fb0beb5.msu",
+      "x64": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2025/03/windows10.0-kb5053594-x64_d126a8ab63952fdac4b4de0672f75fe453c884d2.msu"
     }
   },
   "1703": {
@@ -3293,6 +3301,10 @@
     "KB5052000": {
       "x86": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2025/02/windows10.0-kb5052000-x86_4f58f51b61d9fd5e61b5f12fb4a0168fa35d9154.msu",
       "x64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2025/02/windows10.0-kb5052000-x64_4d5c653ed24d769894ed1a2855d1c59fa70135af.msu"
+    },
+    "KB5053596": {
+      "x86": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2025/03/windows10.0-kb5053596-x86_6433a9d22d308f5f982bd5983dfd18644018213a.msu",
+      "x64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2025/03/windows10.0-kb5053596-x64_1a10a45024267b80a47aaab025bc87f5b5862e06.msu"
     }
   },
   "1903": {
@@ -4158,6 +4170,11 @@
       "x86": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2025/02/windows10.0-kb5051974-x86_1bd6d7814366569c88427c8addb11a25b424e7e5.msu",
       "x64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2025/02/windows10.0-kb5051974-x64_74aa601c3966a9e1ad4efe6287550c0f0bdea59d.msu",
       "arm64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2025/02/windows10.0-kb5051974-arm64_92e5442601003f44000127a7abb5ce31d4633537.msu"
+    },
+    "KB5053606": {
+      "x86": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2025/03/windows10.0-kb5053606-x86_4a8a1b8b3fc776c322479436470c7ea8e4bd205b.msu",
+      "x64": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2025/03/windows10.0-kb5053606-x64_7415dee0978d4cdecfc284e53222dfa1d36d6894.msu",
+      "arm64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2025/03/windows10.0-kb5053606-arm64_36182cc4a7500d1191044ea1c8fa0bb41ddbc057.msu"
     }
   },
   "22H2": {
@@ -4749,6 +4766,10 @@
     "KB5052094": {
       "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/23fc3e11-c882-440a-b204-3fd16c443443/public/windows11.0-kb5052094-x64_52adea5d5c4029eb04c8766822416804968a472b.msu",
       "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b5a715b0-4a06-409b-82cf-9a83d57200bf/public/windows11.0-kb5052094-arm64_977968d5a9ac4e199d8c5f6cc250146264d1fd31.msu"
+    },
+    "KB5053602": {
+      "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/cf6a62b9-4c7f-4703-aeb7-9ef0df5f29f1/public/windows11.0-kb5053602-x64_c1dc9c521f329ff91d92ab59713cb0f01959fa4e.msu",
+      "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/de12a7c8-8fd1-4b3a-82d9-a022d00210ac/public/windows11.0-kb5053602-arm64_2c00be9b4decfb46c525db273c833b5fe5d3019c.msu"
     }
   },
   "11-24H2": {
@@ -4819,6 +4840,10 @@
     "KB5052093": {
       "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b6165564-182c-44e0-b274-144233082b4e/public/windows11.0-kb5052093-x64_1c58dde6bb2c127999e179992892035d620d4552.msu",
       "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8a3f7784-ae82-427d-bdb4-e18799d8c44c/public/windows11.0-kb5052093-arm64_49c376a45db51fb224c182fa433341c597311abe.msu"
+    },
+    "KB5053598": {
+      "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/4807b0b1-6c5a-4a70-ab45-b378235fb9d6/public/windows11.0-kb5053598-x64_6cb3ffc5c4d652793dc71705248426eecdacdfd0.msu",
+      "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f4228d6a-08d9-470f-b29e-814b5a2881a7/public/windows11.0-kb5053598-arm64_efa6ac61adc5d33d43fc458bdb44db063bb49f47.msu"
     }
   }
 }
