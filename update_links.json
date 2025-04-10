@@ -563,6 +563,10 @@
     "KB5053618": {
       "x86": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2025/03/windows10.0-kb5053618-x86_e781767fcaa64cc884bbbd32c1f4c3a23ba199b2.msu",
       "x64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2025/03/windows10.0-kb5053618-x64_dcbe6ce646467a387dbba0387e81f4ba38385dce.msu"
+    },
+    "KB5055547": {
+      "x86": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2025/04/windows10.0-kb5055547-x86_1744d247e47712406fb6bd49d8ded2d2267c40b7.msu",
+      "x64": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2025/04/windows10.0-kb5055547-x64_abb43b559c2fad7513a726ba59d3a22b40d6ec11.msu"
     }
   },
   "1511": {

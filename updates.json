@@ -1798,6 +1798,12 @@
             "releaseDate": "2025-03-11",
             "releaseVersion": "10240.20947",
             "updateUrl": "https://support.microsoft.com/help/5053618"
+        },
+        "KB5055547": {
+            "heading": "April 9, 2025&#x2014;KB5055547 (OS Build 10240.20979)",
+            "releaseDate": "2025-04-09",
+            "releaseVersion": "10240.20979",
+            "updateUrl": "https://support.microsoft.com/help/5055547"
         }
     },
     "1511": {
