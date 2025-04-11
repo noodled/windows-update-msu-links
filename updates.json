@@ -834,12 +834,12 @@
             "updateUrl": "https://support.microsoft.com/help/5053657"
         },
         "KB5055528": {
-            "heading": "April 8, 2025&#x2014;KB5055528 (OS Builds 22621.5191 and 22631.5191)",
+            "heading": "April 8, 2025&#x2014;KB5055528 (OS Builds 22621.5189 and 22631.5189)",
             "otherWindowsVersions": [
                 "11-23H2"
             ],
             "releaseDate": "2025-04-08",
-            "releaseVersion": "22621.5191",
+            "releaseVersion": "22621.5189",
             "updateUrl": "https://support.microsoft.com/help/5055528"
         }
     },
