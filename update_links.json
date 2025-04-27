@@ -4908,6 +4908,10 @@
       "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/beae415c-d56f-477c-9a3a-3aa4336890f6/public/windows11.0-kb5055523-x64_b1df8c7b11308991a9c45ae3fba6caa0e2996157.msu",
       "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/07525db3-8446-4231-b991-fdd350d2e355/public/windows11.0-kb5055523-arm64_809fb627c643e6cf8263f9b5137ca005e24e1ca7.msu"
     },
+    "KB5055627": {
+      "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f878e0db-d539-4906-b437-b8f5875b4b68/public/windows11.0-kb5055627-x64_56bb899f7c7a89d0815767dfb2b31e1c5516963d.msu",
+      "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/d84ad83b-ef8d-459a-9006-bcdb9ef165d1/public/windows11.0-kb5055627-arm64_2c9dfca547120adcda99a4b0e34cc740b9bbec72.msu"
+    },
     "KB5059087": {
       "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/584ce7f1-b0c7-43c8-b2af-256fb291c5e3/public/windows11.0-kb5059087-x64_180d9c16b32cbda1c941e2e1c83f93439d6c004c.msu",
       "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6dca96cd-1330-4675-821f-2bd3d4cc276e/public/windows11.0-kb5059087-arm64_25f8059a381fd8f2580233f9cf00fdf023b023cb.msu"
