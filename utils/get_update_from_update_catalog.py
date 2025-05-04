@@ -1,6 +1,9 @@
 import requests
 import json
 import re
+# Spoof a Mozilla Firefox user agent on Windows
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:112.0) Gecko/20100101 Firefox/137.0"
+HEADERS = {"User-Agent": USER_AGENT}
 
 
 class UpdateNotFound(Exception):
