@@ -60,7 +60,9 @@ def consolidate_overlapping_updates(updates):
 def get_updates_from_microsoft_support_for_version(windows_major_version, url):
     while True:
         try:
-            request = requests.get(url)
+            # Include the spoofed user agent header in the GET request
+            request = requests.get(url, headers=HEADERS)
+            ##request = requests.get(url)
             request.raise_for_status()
             break
         except Exception as e:
