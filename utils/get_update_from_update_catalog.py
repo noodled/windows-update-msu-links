@@ -10,7 +10,9 @@ class UpdateNotFound(Exception):
 def search_for_updates(search_terms: str):
     url = 'https://www.catalog.update.microsoft.com/Search.aspx'
     while True:
-        html = requests.get(url, {'q': search_terms}).text
+        ### html = requests.get(url, {'q': search_terms}).text
+        # Pass the query parameters (as 'params') and our custom headers.
+        html = requests.get(url, params={'q': search_terms}, headers=HEADERS).text
         if 'The website has encountered a problem' not in html:
             break
         # Retry...
