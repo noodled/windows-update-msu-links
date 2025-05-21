@@ -4221,6 +4221,11 @@
       "x86": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2025/05/windows10.0-kb5058379-x86_f68967884dcc241cedfe2cd9035eb640988d2fbb.msu",
       "x64": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2025/05/windows10.0-kb5058379-x64_cb6f8dbed398fba2fd0c4256ced320932e1daa08.msu",
       "arm64": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2025/05/windows10.0-kb5058379-arm64_9e324bad6407c1539a7c63cb4194614fdfa84e35.msu"
+    },
+    "KB5061768": {
+      "x86": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2025/05/windows10.0-kb5061768-x86_8f3382393614d62498cef434845b52c36682f671.msu",
+      "x64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2025/05/windows10.0-kb5061768-x64_853083b61921d0386106205a48180afeb69ef9ac.msu",
+      "arm64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2025/05/windows10.0-kb5061768-arm64_b193e6090f41292d6d7f0731e269dd6d31e744f7.msu"
     }
   },
   "22H2": {
