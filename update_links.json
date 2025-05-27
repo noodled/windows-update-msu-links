@@ -3341,6 +3341,10 @@
     "KB5059091": {
       "x86": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2025/04/windows10.0-kb5059091-x86_f5a0cdad0e68c2db491fc08293280fe64b9c7df8.msu",
       "x64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2025/04/windows10.0-kb5059091-x64_60488c9de63ea0de15d90636bb9d33330f03c92e.msu"
+    },
+    "KB5061978": {
+      "x86": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2025/05/windows10.0-kb5061978-x86_39c582ba829aead6f5b21dff464fc35e0b8bd599.msu",
+      "x64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2025/05/windows10.0-kb5061978-x64_8a545c5e96eb9cf616bae7fd3a6e32982111c057.msu"
     }
   },
   "1903": {
@@ -4226,6 +4230,11 @@
       "x86": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2025/05/windows10.0-kb5061768-x86_8f3382393614d62498cef434845b52c36682f671.msu",
       "x64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2025/05/windows10.0-kb5061768-x64_853083b61921d0386106205a48180afeb69ef9ac.msu",
       "arm64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2025/05/windows10.0-kb5061768-arm64_b193e6090f41292d6d7f0731e269dd6d31e744f7.msu"
+    },
+    "KB5061979": {
+      "x86": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2025/05/windows10.0-kb5061979-x86_5153de9670c7ea383348d4698801341156ef7012.msu",
+      "x64": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2025/05/windows10.0-kb5061979-x64_08a8b6833dfd507c47dec771f51cea58e3ae0a5f.msu",
+      "arm64": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2025/05/windows10.0-kb5061979-arm64_4d1fd30b01b75466859d5d98627243e852d4004c.msu"
     }
   },
   "22H2": {
@@ -4848,6 +4857,10 @@
       "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/34bc8dd6-10e7-49b4-bda7-007721dd4573/public/windows11.0-kb5058405-x64_117e45bc2ae1f33b5cfc1d105e06c15fef1feb5c.msu",
       "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/00d00338-dfd9-45c2-b6e1-1f920c8e7ac0/public/windows11.0-kb5058405-arm64_765fa652451f340dd9f00fc55b704af6d14d05b7.msu"
     },
+    "KB5058502": {
+      "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/2a841716-9fcb-40ac-b0cd-1b9233ea226a/public/windows11.0-kb5058502-x64_515a40bae4ef0b9687ca2c48fbf3506b01bcf225.msu",
+      "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/9683e3b5-648e-4e7a-bc5d-734460f250a6/public/windows11.0-kb5058502-arm64_99612471d4765f7f72cd16d4070d89cfecbdc7b9.msu"
+    },
     "KB5058919": {
       "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6bf92864-9782-41c0-b9f1-17249bf2ccc6/public/windows11.0-kb5058919-x64_2a7c6f541be7567bd1fa9bb7342e4b255f8ce339.msu",
       "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/9289d370-53ed-4f07-869b-dd6ec676f555/public/windows11.0-kb5058919-arm64_957a1440d925ff379da3682d0dd8cb367dbc904c.msu"
@@ -4945,6 +4958,10 @@
     "KB5059087": {
       "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/584ce7f1-b0c7-43c8-b2af-256fb291c5e3/public/windows11.0-kb5059087-x64_180d9c16b32cbda1c941e2e1c83f93439d6c004c.msu",
       "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6dca96cd-1330-4675-821f-2bd3d4cc276e/public/windows11.0-kb5059087-arm64_25f8059a381fd8f2580233f9cf00fdf023b023cb.msu"
+    },
+    "KB5061977": {
+      "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c4473361-1560-4333-bc3f-a6d39c0f1926/public/windows11.0-kb5061977-x64_72be6406594d4df1d8d066263c13388c758dc69f.msu",
+      "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/648a7068-5c53-4044-af4e-a688349003f5/public/windows11.0-kb5061977-arm64_a61e747ecaf54cb540f03dc3a131efe13a22ae9d.msu"
     }
   }
 }
