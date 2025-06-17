@@ -7110,6 +7110,15 @@
             "releaseDate": "2025-05-27",
             "releaseVersion": "19044.5859",
             "updateUrl": "https://support.microsoft.com/help/5061979"
+        },
+        "KB5063159": {
+            "heading": "June 16, 2025&#x2014;KB5063159 (OS Build 19045.5968) Out-of-band",
+            "otherWindowsVersions": [
+                "22H2"
+            ],
+            "releaseDate": "2025-06-16",
+            "releaseVersion": "19045.5968",
+            "updateUrl": "https://support.microsoft.com/help/5063159"
         }
     },
     "22H2": {

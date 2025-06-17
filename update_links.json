@@ -4252,6 +4252,11 @@
       "x86": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2025/05/windows10.0-kb5061979-x86_5153de9670c7ea383348d4698801341156ef7012.msu",
       "x64": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2025/05/windows10.0-kb5061979-x64_08a8b6833dfd507c47dec771f51cea58e3ae0a5f.msu",
       "arm64": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2025/05/windows10.0-kb5061979-arm64_4d1fd30b01b75466859d5d98627243e852d4004c.msu"
+    },
+    "KB5063159": {
+      "x86": null,
+      "x64": null,
+      "arm64": null
     }
   },
   "22H2": {
