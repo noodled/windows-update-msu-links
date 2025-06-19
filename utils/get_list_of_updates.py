@@ -5,7 +5,9 @@ import time
 import re
 
 import config
-
+# Spoof a Mozilla Firefox user agent on Windows
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:112.0) Gecko/20100101 Firefox/137.0"
+HEADERS = {"User-Agent": USER_AGENT}
 
 def consolidate_overlapping_updates(updates):
     seen_kbs = {}
@@ -60,7 +62,9 @@ def consolidate_overlapping_updates(updates):
 def get_updates_from_microsoft_support_for_version(windows_major_version, url):
     while True:
         try:
-            request = requests.get(url)
+            # Include the spoofed user agent header in the GET request
+            request = requests.get(url, headers=HEADERS)
+            ##request = requests.get(url)
             request.raise_for_status()
             break
         except Exception as e:
