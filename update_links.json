@@ -4375,6 +4375,11 @@
       "x64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2025/05/windows10.0-kb5058481-x64_3819ecfc5be1e6eb0fcb51c92b39f51780d71122.msu",
       "arm64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2025/05/windows10.0-kb5058481-arm64_7015c59eb341d5a81ed70cc2768c3896d1e2028a.msu"
     },
+    "KB5061087": {
+      "x86": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2025/06/windows10.0-kb5061087-x86_9fb3164fcb1d0fa02558bd524a4c2de9f44d3e4e.msu",
+      "x64": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2025/06/windows10.0-kb5061087-x64_60be6e73e95c9e0cbfb82eb57e5d6088413a6866.msu",
+      "arm64": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2025/06/windows10.0-kb5061087-arm64_bccf464dbd6052800f74c11ebd11ba43e6fe8938.msu"
+    },
     "KB5063159": {
       "x86": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2025/06/windows10.0-kb5063159-x86_7d10fe75ab78f32f2f68ce8f990e23ef6cf8cf35.msu",
       "x64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2025/06/windows10.0-kb5063159-x64_50ea3cbc0ed169387390d7cc57dc8e53cae2d183.msu",
