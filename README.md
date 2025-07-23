@@ -24,3 +24,14 @@ were grabbed from alternative sources, including:
   ([example](https://jsb000.tistory.com/1143))
 
 As a result, links to some old updates might still be missing.
+Some notes :
+9
+
+# Spoof a Mozilla Firefox  user agent on Windows
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:112.0) Gecko/20100101 Firefox/137.0"
+HEADERS = {"User-Agent": USER_AGENT}
+
+65
+
+ # Include the spoofed user agent header in the GET request
+            request = requests.get(url, headers=HEADERS)
