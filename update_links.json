@@ -4432,6 +4432,11 @@
       "x86": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2025/06/windows10.0-kb5063159-x86_7d10fe75ab78f32f2f68ce8f990e23ef6cf8cf35.msu",
       "x64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2025/06/windows10.0-kb5063159-x64_50ea3cbc0ed169387390d7cc57dc8e53cae2d183.msu",
       "arm64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2025/06/windows10.0-kb5063159-arm64_cf2423ea7cd08b44dc9999f34da67ae6e55b953a.msu"
+    },
+    "KB5063842": {
+      "x86": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2025/08/windows10.0-kb5063842-x86_b030b04f018e7506ae0e2ee0c8a255f6f16a099a.msu",
+      "x64": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2025/08/windows10.0-kb5063842-x64_99c6dc32f838d0522a641886d62bd28ac1237035.msu",
+      "arm64": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2025/08/windows10.0-kb5063842-arm64_444e4ebf1451ea1094a989f659efd4e98d9ac6f7.msu"
     }
   },
   "11-21H2": {
@@ -4972,6 +4977,12 @@
     "KB5066189": {
       "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/54a5bd36-e10e-4e7b-9987-f8d0b492c702/public/windows11.0-kb5066189-x64_35067234c7bc37577282952f9d9333cf281e72fa.msu",
       "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/d0bd8cec-98ef-4b2e-8154-b186d7d710f1/public/windows11.0-kb5066189-arm64_7db3bbb51cbe6befb1037b1b38bbffcf5d4dc690.msu"
+    }
+  },
+  "11-23H2": {
+    "KB5064080": {
+      "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ab623a4e-1eb2-4a72-85e7-d4907a48643a/public/windows11.0-kb5064080-x64_9ae386e5e91fe13a5f9c4ec2137c107c41e036f1.msu",
+      "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/317e7c3d-d9fd-4b7b-bfe2-111bbfa00463/public/windows11.0-kb5064080-arm64_26fb5cf1e6871459fb2ee32146092fccba032e24.msu"
     }
   },
   "11-24H2": {
