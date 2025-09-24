@@ -5004,6 +5004,10 @@
     "KB5064080": {
       "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ab623a4e-1eb2-4a72-85e7-d4907a48643a/public/windows11.0-kb5064080-x64_9ae386e5e91fe13a5f9c4ec2137c107c41e036f1.msu",
       "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/317e7c3d-d9fd-4b7b-bfe2-111bbfa00463/public/windows11.0-kb5064080-arm64_26fb5cf1e6871459fb2ee32146092fccba032e24.msu"
+    },
+    "KB5065790": {
+      "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/1bf58b4d-c162-466b-8530-3e0e4b20c2b7/public/windows11.0-kb5065790-x64_7d5ac26efcce1ddcc54ec1b06bc1fb7ac146257d.msu",
+      "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f7cb8a41-42b5-4d45-92f2-ce9c961ec9fc/public/windows11.0-kb5065790-arm64_d5fb4ba413d21dd7deb759e21a8bb7c052e215a5.msu"
     }
   },
   "11-24H2": {
