@@ -4454,6 +4454,11 @@
       "x86": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2025/08/windows10.0-kb5063842-x86_b030b04f018e7506ae0e2ee0c8a255f6f16a099a.msu",
       "x64": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2025/08/windows10.0-kb5063842-x64_99c6dc32f838d0522a641886d62bd28ac1237035.msu",
       "arm64": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2025/08/windows10.0-kb5063842-arm64_444e4ebf1451ea1094a989f659efd4e98d9ac6f7.msu"
+    },
+    "KB5066198": {
+      "x86": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2025/09/windows10.0-kb5066198-x86_4b90cc989dae458f8615527c271ae90e8e2e3280.msu",
+      "x64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2025/09/windows10.0-kb5066198-x64_5f9ffbe59eaf0cfb1f14c1c1981c4c4307f3bdf7.msu",
+      "arm64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2025/09/windows10.0-kb5066198-arm64_7d8a6efb8d4acc1c32587237ecc1b91e92c23014.msu"
     }
   },
   "11-21H2": {
