@@ -1205,6 +1205,11 @@
             "releaseDate": "2025-10-20",
             "releaseVersion": "26200.6901",
             "updateUrl": "https://support.microsoft.com/help/5070773"
+        },
+        "KB5070881": {
+            "releaseDate": "2025-10-23",
+            "releaseVersion": "26100.6905",
+            "updateUrl": "https://support.microsoft.com/help/5070881"
         }
     },
     "1507": {
@@ -3391,6 +3396,11 @@
             "releaseDate": "2025-10-14",
             "releaseVersion": "14393.8519",
             "updateUrl": "https://support.microsoft.com/help/5066836"
+        },
+        "KB5070882": {
+            "releaseDate": "2025-10-23",
+            "releaseVersion": "14393.8524",
+            "updateUrl": "https://support.microsoft.com/help/5070882"
         }
     },
     "1703": {
@@ -5840,6 +5850,11 @@
             "releaseDate": "2025-10-14",
             "releaseVersion": "17763.7919",
             "updateUrl": "https://support.microsoft.com/help/5066586"
+        },
+        "KB5070883": {
+            "releaseDate": "2025-10-23",
+            "releaseVersion": "17763.7922",
+            "updateUrl": "https://support.microsoft.com/help/5070883"
         }
     },
     "1903": {
