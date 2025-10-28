@@ -2,6 +2,8 @@ import requests
 import json
 import re
 
+import config
+
 
 class UpdateNotFound(Exception):
     pass
@@ -118,6 +120,9 @@ def get_update_from_update_catalog_impl(arch: str, windows_version: str, update_
 
 
 def get_update_from_update_catalog(arch: str, windows_version: str, update_kb: str):
+    if update_kb in config.updates_unsupported:
+        return None
+
     return get_update_from_update_catalog_impl(arch, windows_version, update_kb)
     # try:
     #     return get_update_from_update_catalog_impl(arch, windows_version, update_kb)
