@@ -962,22 +962,28 @@
     },
     "11-23H2": {
         "KB5064080": {
-            "heading": "August 26, 2025&#x2014;KB5064080 (OS Build 22621.5840) Preview",
+            "heading": "August 26, 2025&#x2014;KB5064080 (OS Build 22631.5840) Preview",
             "releaseDate": "2025-08-26",
-            "releaseVersion": "22621.5840",
+            "releaseVersion": "22631.5840",
             "updateUrl": "https://support.microsoft.com/help/5064080"
         },
         "KB5065790": {
-            "heading": "September 23, 2025&#x2014;KB5065790 (OS Build 22621.5984) Preview",
+            "heading": "September 23, 2025&#x2014;KB5065790 (OS Build 22631.5984) Preview",
             "releaseDate": "2025-09-23",
-            "releaseVersion": "22621.5984",
+            "releaseVersion": "22631.5984",
             "updateUrl": "https://support.microsoft.com/help/5065790"
         },
         "KB5067112": {
-            "heading": "October 28, 2025&#x2014;KB5067112 (OS Build 22621.6133) Preview",
+            "heading": "October 28, 2025&#x2014;KB5067112 (OS Build 22631.6133) Preview",
             "releaseDate": "2025-10-28",
-            "releaseVersion": "22621.6133",
+            "releaseVersion": "22631.6133",
             "updateUrl": "https://support.microsoft.com/help/5067112"
+        },
+        "KB5068865": {
+            "heading": "November 11, 2025&#x2014;KB5068865 (OS Build 22631.6199)",
+            "releaseDate": "2025-11-11",
+            "releaseVersion": "22631.6199",
+            "updateUrl": "https://support.microsoft.com/help/5068865"
         }
     },
     "11-24H2": {
@@ -1211,6 +1217,15 @@
             "releaseDate": "2025-09-22",
             "releaseVersion": "26100.6588",
             "updateUrl": "https://support.microsoft.com/help/5068221"
+        },
+        "KB5068861": {
+            "heading": "November 11, 2025&#x2014;KB5068861 (OS Builds 26200.7171 and 26100.7171)",
+            "otherWindowsVersions": [
+                "11-25H2"
+            ],
+            "releaseDate": "2025-11-11",
+            "releaseVersion": "26200.7171",
+            "updateUrl": "https://support.microsoft.com/help/5068861"
         },
         "KB5070773": {
             "heading": "October 20, 2025&#x2014;KB5070773 (OS Builds 26200.6901 and 26100.6901) Out-of-band",
@@ -3411,6 +3426,12 @@
             "releaseDate": "2025-10-14",
             "releaseVersion": "14393.8519",
             "updateUrl": "https://support.microsoft.com/help/5066836"
+        },
+        "KB5068864": {
+            "heading": "November 11, 2025&#x2014;KB5068864 (OS Build 14393.8594)",
+            "releaseDate": "2025-11-11",
+            "releaseVersion": "14393.8594",
+            "updateUrl": "https://support.microsoft.com/help/5068864"
         },
         "KB5070882": {
             "releaseDate": "2025-10-23",
@@ -5866,6 +5887,12 @@
             "releaseVersion": "17763.7919",
             "updateUrl": "https://support.microsoft.com/help/5066586"
         },
+        "KB5068791": {
+            "heading": "November 11, 2025&#x2014;KB5068791 (OS Build 17763.8027)",
+            "releaseDate": "2025-11-11",
+            "releaseVersion": "17763.8027",
+            "updateUrl": "https://support.microsoft.com/help/5068791"
+        },
         "KB5070883": {
             "releaseDate": "2025-10-23",
             "releaseVersion": "17763.7922",
@@ -7415,6 +7442,15 @@
             "releaseDate": "2025-10-14",
             "releaseVersion": "19044.6456",
             "updateUrl": "https://support.microsoft.com/help/5066791"
+        },
+        "KB5068781": {
+            "heading": "November 11, 2025&#x2014;KB5068781 (OS Builds 19044.6575 and 19045.6575)",
+            "otherWindowsVersions": [
+                "22H2"
+            ],
+            "releaseDate": "2025-11-11",
+            "releaseVersion": "19044.6575",
+            "updateUrl": "https://support.microsoft.com/help/5068781"
         }
     },
     "22H2": {
@@ -7591,6 +7627,12 @@
             "releaseDate": "2025-09-25",
             "releaseVersion": "19045.6396",
             "updateUrl": "https://support.microsoft.com/help/5066198"
+        },
+        "KB5071959": {
+            "heading": "November 11, 2025&#x2014;KB5071959: Windows 10, version 22H2 (OS Build 19045.6466) Out-of-band",
+            "releaseDate": "2025-11-11",
+            "releaseVersion": "19045.6466",
+            "updateUrl": "https://support.microsoft.com/help/5071959"
         }
     }
 }
