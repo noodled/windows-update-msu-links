@@ -1240,6 +1240,11 @@
             "releaseDate": "2025-10-23",
             "releaseVersion": "26100.6905",
             "updateUrl": "https://support.microsoft.com/help/5070881"
+        },
+        "KB5072359": {
+            "releaseDate": "2025-11-18",
+            "releaseVersion": "26100.7178",
+            "updateUrl": "https://support.microsoft.com/help/5072359"
         }
     },
     "1507": {
