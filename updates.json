@@ -984,6 +984,12 @@
             "releaseDate": "2025-11-11",
             "releaseVersion": "22631.6199",
             "updateUrl": "https://support.microsoft.com/help/5068865"
+        },
+        "KB5070312": {
+            "heading": "November 20, 2025&#x2014;KB5070312 (OS Build 22631.6276) Preview",
+            "releaseDate": "2025-11-20",
+            "releaseVersion": "22631.6276",
+            "updateUrl": "https://support.microsoft.com/help/5070312"
         }
     },
     "11-24H2": {
