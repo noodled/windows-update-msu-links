@@ -1233,6 +1233,15 @@
             "releaseVersion": "26200.7171",
             "updateUrl": "https://support.microsoft.com/help/5068861"
         },
+        "KB5070311": {
+            "heading": "December 1, 2025&#x2014;KB5070311 (OS Builds 26200.7309 and 26100.7309) Preview",
+            "otherWindowsVersions": [
+                "11-25H2"
+            ],
+            "releaseDate": "2025-12-01",
+            "releaseVersion": "26200.7309",
+            "updateUrl": "https://support.microsoft.com/help/5070311"
+        },
         "KB5070773": {
             "heading": "October 20, 2025&#x2014;KB5070773 (OS Builds 26200.6901 and 26100.6901) Out-of-band",
             "otherWindowsVersions": [
