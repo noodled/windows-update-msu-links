@@ -990,6 +990,12 @@
             "releaseDate": "2025-11-20",
             "releaseVersion": "22631.6276",
             "updateUrl": "https://support.microsoft.com/help/5070312"
+        },
+        "KB5071417": {
+            "heading": "December 9, 2025&#x2014;KB5071417 (OS Build 22631.6345)",
+            "releaseDate": "2025-12-09",
+            "releaseVersion": "22631.6345",
+            "updateUrl": "https://support.microsoft.com/help/5071417"
         }
     },
     "11-24H2": {
@@ -1255,6 +1261,15 @@
             "releaseDate": "2025-10-23",
             "releaseVersion": "26100.6905",
             "updateUrl": "https://support.microsoft.com/help/5070881"
+        },
+        "KB5072033": {
+            "heading": "December 9, 2025&#x2014;KB5072033 (OS Builds 26200.7462 and 26100.7462)",
+            "otherWindowsVersions": [
+                "11-25H2"
+            ],
+            "releaseDate": "2025-12-09",
+            "releaseVersion": "26200.7462",
+            "updateUrl": "https://support.microsoft.com/help/5072033"
         },
         "KB5072359": {
             "releaseDate": "2025-11-18",
@@ -3457,6 +3472,12 @@
             "releaseDate": "2025-10-23",
             "releaseVersion": "14393.8524",
             "updateUrl": "https://support.microsoft.com/help/5070882"
+        },
+        "KB5071543": {
+            "heading": "December 9, 2025&#x2014;KB5071543 (OS Build 14393.8688)",
+            "releaseDate": "2025-12-09",
+            "releaseVersion": "14393.8688",
+            "updateUrl": "https://support.microsoft.com/help/5071543"
         }
     },
     "1703": {
@@ -5917,6 +5938,12 @@
             "releaseDate": "2025-10-23",
             "releaseVersion": "17763.7922",
             "updateUrl": "https://support.microsoft.com/help/5070883"
+        },
+        "KB5071544": {
+            "heading": "December 9, 2025&#x2014;KB5071544 (OS Build 17763.8146)",
+            "releaseDate": "2025-12-09",
+            "releaseVersion": "17763.8146",
+            "updateUrl": "https://support.microsoft.com/help/5071544"
         }
     },
     "1903": {
@@ -7471,6 +7498,15 @@
             "releaseDate": "2025-11-11",
             "releaseVersion": "19044.6575",
             "updateUrl": "https://support.microsoft.com/help/5068781"
+        },
+        "KB5071546": {
+            "heading": "December 9, 2025&#x2014;KB5071546 (OS Builds 19045.6691 and 19044.6691)",
+            "otherWindowsVersions": [
+                "22H2"
+            ],
+            "releaseDate": "2025-12-09",
+            "releaseVersion": "19045.6691",
+            "updateUrl": "https://support.microsoft.com/help/5071546"
         }
     },
     "22H2": {
