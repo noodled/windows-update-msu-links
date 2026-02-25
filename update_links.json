@@ -5353,6 +5353,10 @@
       "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/eb8d76c6-f362-4354-ad8c-cdfd1d8390a8/public/windows11.0-kb5077181-x64_33d38563662e659ceb84fb8b65aa05ce5876f5a4.msu",
       "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b9e73ab9-5568-42bf-bc78-6d67da98bcf6/public/windows11.0-kb5077181-arm64_dfd4941f923abb6ece5c224fd953f227aace71b8.msu"
     },
+    "KB5077241": {
+      "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/66b28d24-251c-4c0a-8a19-82bc599deac3/public/windows11.0-kb5077241-x64_739bca934f7f45038f9752637f632afa52c35f75.msu",
+      "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c262753d-a680-40e6-b72a-2a382dc7e85a/public/windows11.0-kb5077241-arm64_5c2929b666d744c592cb156b516c41291b787f50.msu"
+    },
     "KB5077744": {
       "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/351cd910-6b58-4b15-85bb-6e9a25e5732f/public/windows11.0-kb5077744-x64_fb63f62e4846b81b064c3515d7aff46c9d6d50c8.msu",
       "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/111b7473-8aba-45ac-b393-93fe51cdcb05/public/windows11.0-kb5077744-arm64_0dbd645303bd434622505eb4c9d61881aa378b89.msu"
@@ -5366,6 +5370,10 @@
     "KB5077179": {
       "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6a06873f-7099-445d-9b04-d5df102db265/public/windows11.0-kb5077179-x64_a8924b32dce45673073a2271a4b17796bb8ae0f2.msu",
       "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0fc44513-c236-43aa-a68d-5a84d0b2edad/public/windows11.0-kb5077179-arm64_0de025b86cff4646062947ff45f4e3cb8e307436.msu"
+    },
+    "KB5077239": {
+      "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/46eaec76-0ddc-4435-8614-fdbb1e56c4e4/public/windows11.0-kb5077239-x64_5e20d57e0a1e783c05c1f2e8a61fcb5defad3179.msu",
+      "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/3390f8c5-6666-461a-b2b5-6e8b48921820/public/windows11.0-kb5077239-arm64_ea4dcc7b6116d111da8f32f0bb99b3c138ae98fd.msu"
     }
   }
 }

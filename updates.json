@@ -1281,6 +1281,11 @@
             "releaseVersion": "26200.6901",
             "updateUrl": "https://support.microsoft.com/help/5070773"
         },
+        "KB5070881": {
+            "releaseDate": "2025-10-23",
+            "releaseVersion": "26100.6905",
+            "updateUrl": "https://support.microsoft.com/help/5070881"
+        },
         "KB5072033": {
             "heading": "December 9, 2025&#x2014;KB5072033 (OS Builds 26200.7462 and 26100.7462)",
             "otherWindowsVersions": [
@@ -1289,6 +1294,11 @@
             "releaseDate": "2025-12-09",
             "releaseVersion": "26200.7462",
             "updateUrl": "https://support.microsoft.com/help/5072033"
+        },
+        "KB5072359": {
+            "releaseDate": "2025-11-18",
+            "releaseVersion": "26100.7178",
+            "updateUrl": "https://support.microsoft.com/help/5072359"
         },
         "KB5074105": {
             "heading": "January 29, 2026&#x2014;KB5074105 (OS Builds 26200.7705 and 26100.7705) Preview",
@@ -1317,6 +1327,15 @@
             "releaseVersion": "26200.7840",
             "updateUrl": "https://support.microsoft.com/help/5077181"
         },
+        "KB5077241": {
+            "heading": "February 24, 2026&#x2014;KB5077241 (OS Builds 26200.7922 and 26100.7922) Preview",
+            "otherWindowsVersions": [
+                "11-25H2"
+            ],
+            "releaseDate": "2026-02-24",
+            "releaseVersion": "26200.7922",
+            "updateUrl": "https://support.microsoft.com/help/5077241"
+        },
         "KB5077744": {
             "heading": "January 17, 2026&#x2014;KB5077744 (OS Builds 26200.7627 and 26100.7627) Out-of-band",
             "otherWindowsVersions": [
@@ -1342,6 +1361,12 @@
             "releaseDate": "2026-02-10",
             "releaseVersion": "28000.1575",
             "updateUrl": "https://support.microsoft.com/help/5077179"
+        },
+        "KB5077239": {
+            "heading": "February 24, 2026&#x2014;KB5077239 (OS Build 28000.1643) Preview",
+            "releaseDate": "2026-02-24",
+            "releaseVersion": "28000.1643",
+            "updateUrl": "https://support.microsoft.com/help/5077239"
         }
     },
     "1507": {
