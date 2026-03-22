@@ -1368,6 +1368,15 @@
             "releaseDate": "2026-03-10",
             "releaseVersion": "26200.8037",
             "updateUrl": "https://support.microsoft.com/help/5079473"
+        },
+        "KB5085516": {
+            "heading": "March 21, 2026&#x2014;KB5085516 (OS Builds 26200.8039 and 26100.8039) Out-of-band",
+            "otherWindowsVersions": [
+                "11-25H2"
+            ],
+            "releaseDate": "2026-03-21",
+            "releaseVersion": "26200.8039",
+            "updateUrl": "https://support.microsoft.com/help/5085516"
         }
     },
     "11-26H1": {
