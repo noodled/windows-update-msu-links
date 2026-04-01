@@ -1386,6 +1386,15 @@
             "releaseDate": "2026-03-21",
             "releaseVersion": "26200.8039",
             "updateUrl": "https://support.microsoft.com/help/5085516"
+        },
+        "KB5086672": {
+            "heading": "March 31, 2026&#x2014;KB5086672 (OS Builds 26200.8117 and 26100.8117) Out-of-band",
+            "otherWindowsVersions": [
+                "11-25H2"
+            ],
+            "releaseDate": "2026-03-31",
+            "releaseVersion": "26200.8117",
+            "updateUrl": "https://support.microsoft.com/help/5086672"
         }
     },
     "11-26H1": {
@@ -2803,7 +2812,7 @@
             "updateUrl": "https://support.microsoft.com/help/4103720"
         },
         "KB4103723": {
-            "heading": "May 8, 2018&#x2014;KB4103723 (OS Build 14393.2248)",
+            "heading": "May 8, 2018&#x2014;KB4103723 (OS Build 14393.2248)- EXPIRED",
             "releaseDate": "2018-05-08",
             "releaseVersion": "14393.2248",
             "updateUrl": "https://support.microsoft.com/help/4103723"
@@ -2869,7 +2878,7 @@
             "updateUrl": "https://support.microsoft.com/help/4457131"
         },
         "KB4462917": {
-            "heading": "October 9, 2018&#x2014;KB4462917 (OS Build 14393.2551)",
+            "heading": "October 9, 2018&#x2014;KB4462917 (OS Build 14393.2551)- EXPIRED",
             "releaseDate": "2018-10-09",
             "releaseVersion": "14393.2551",
             "updateUrl": "https://support.microsoft.com/help/4462917"
@@ -2887,7 +2896,7 @@
             "updateUrl": "https://support.microsoft.com/help/4467684"
         },
         "KB4467691": {
-            "heading": "November 13, 2018&#x2014;KB4467691 (OS Build 14393.2608)",
+            "heading": "November 13, 2018&#x2014;KB4467691 (OS Build 14393.2608)- EXPIRED",
             "releaseDate": "2018-11-13",
             "releaseVersion": "14393.2608",
             "updateUrl": "https://support.microsoft.com/help/4467691"
@@ -2959,7 +2968,7 @@
             "updateUrl": "https://support.microsoft.com/help/4493473"
         },
         "KB4494440": {
-            "heading": "May 14, 2019&#x2014;KB4494440 (OS Build 14393.2969)",
+            "heading": "May 14, 2019&#x2014;KB4494440 (OS Build 14393.2969)- EXPIRED",
             "releaseDate": "2019-05-14",
             "releaseVersion": "14393.2969",
             "updateUrl": "https://support.microsoft.com/help/4494440"
@@ -3306,19 +3315,19 @@
             "updateUrl": "https://support.microsoft.com/help/5011495"
         },
         "KB5012596": {
-            "heading": "April 12, 2022&#x2014;KB5012596 (OS Build 14393.5066)",
+            "heading": "April 12, 2022&#x2014;KB5012596 (OS Build 14393.5066)- EXPIRED",
             "releaseDate": "2022-04-12",
             "releaseVersion": "14393.5066",
             "updateUrl": "https://support.microsoft.com/help/5012596"
         },
         "KB5013952": {
-            "heading": "May 10, 2022&#x2014;KB5013952 (OS Build 14393.5125)",
+            "heading": "May 10, 2022&#x2014;KB5013952 (OS Build 14393.5125)- EXPIRED",
             "releaseDate": "2022-05-10",
             "releaseVersion": "14393.5125",
             "updateUrl": "https://support.microsoft.com/help/5013952"
         },
         "KB5014702": {
-            "heading": "June 14, 2022&#x2014;KB5014702 (OS Build 14393.5192)",
+            "heading": "June 14, 2022&#x2014;KB5014702 (OS Build 14393.5192)- EXPIRED",
             "releaseDate": "2022-06-14",
             "releaseVersion": "14393.5192",
             "updateUrl": "https://support.microsoft.com/help/5014702"
@@ -3330,31 +3339,31 @@
             "updateUrl": "https://support.microsoft.com/help/5015019"
         },
         "KB5015808": {
-            "heading": "July 12, 2022&#x2014;KB5015808 (OS Build 14393.5246)",
+            "heading": "July 12, 2022&#x2014;KB5015808 (OS Build 14393.5246)- EXPIRED",
             "releaseDate": "2022-07-12",
             "releaseVersion": "14393.5246",
             "updateUrl": "https://support.microsoft.com/help/5015808"
         },
         "KB5016622": {
-            "heading": "August 9, 2022&#x2014;KB5016622 (OS Build 14393.5291)",
+            "heading": "August 9, 2022&#x2014;KB5016622 (OS Build 14393.5291)- EXPIRED",
             "releaseDate": "2022-08-09",
             "releaseVersion": "14393.5291",
             "updateUrl": "https://support.microsoft.com/help/5016622"
         },
         "KB5017305": {
-            "heading": "September 13, 2022&#x2014;KB5017305 (OS Build 14393.5356)",
+            "heading": "September 13, 2022&#x2014;KB5017305 (OS Build 14393.5356)- EXPIRED",
             "releaseDate": "2022-09-13",
             "releaseVersion": "14393.5356",
             "updateUrl": "https://support.microsoft.com/help/5017305"
         },
         "KB5018411": {
-            "heading": "October 11, 2022&#x2014;KB5018411 (OS Build 14393.5427)",
+            "heading": "October 11, 2022&#x2014;KB5018411 (OS Build 14393.5427)- EXPIRED",
             "releaseDate": "2022-10-11",
             "releaseVersion": "14393.5427",
             "updateUrl": "https://support.microsoft.com/help/5018411"
         },
         "KB5019964": {
-            "heading": "November 8, 2022&#x2014;KB5019964 (OS Build 14393.5501)",
+            "heading": "November 8, 2022&#x2014;KB5019964 (OS Build 14393.5501)- EXPIRED",
             "releaseDate": "2022-11-08",
             "releaseVersion": "14393.5501",
             "updateUrl": "https://support.microsoft.com/help/5019964"
@@ -3366,7 +3375,7 @@
             "updateUrl": "https://support.microsoft.com/help/5020439"
         },
         "KB5021235": {
-            "heading": "December 13, 2022&#x2014;KB5021235 (OS Build 14393.5582) ",
+            "heading": "December 13, 2022&#x2014;KB5021235 (OS Build 14393.5582)- EXPIRED",
             "releaseDate": "2022-12-13",
             "releaseVersion": "14393.5582",
             "updateUrl": "https://support.microsoft.com/help/5021235"
@@ -3384,37 +3393,37 @@
             "updateUrl": "https://support.microsoft.com/help/5022289"
         },
         "KB5022838": {
-            "heading": "February 14, 2023&#x2014;KB5022838 (OS Build 14393.5717) ",
+            "heading": "February 14, 2023&#x2014;KB5022838 (OS Build 14393.5717)- EXPIRED",
             "releaseDate": "2023-02-14",
             "releaseVersion": "14393.5717",
             "updateUrl": "https://support.microsoft.com/help/5022838"
         },
         "KB5023697": {
-            "heading": "March 14, 2023&#x2014;KB5023697 (OS Build 14393.5786) ",
+            "heading": "March 14, 2023&#x2014;KB5023697 (OS Build 14393.5786)- EXPIRED",
             "releaseDate": "2023-03-14",
             "releaseVersion": "14393.5786",
             "updateUrl": "https://support.microsoft.com/help/5023697"
         },
         "KB5025228": {
-            "heading": "April 11, 2023&#x2014;KB5025228 (OS Build 14393.5850) ",
+            "heading": "April 11, 2023&#x2014;KB5025228 (OS Build 14393.5850)- EXPIRED",
             "releaseDate": "2023-04-11",
             "releaseVersion": "14393.5850",
             "updateUrl": "https://support.microsoft.com/help/5025228"
         },
         "KB5026363": {
-            "heading": "May 9, 2023&#x2014;KB5026363 (OS Build 14393.5921) ",
+            "heading": "May 9, 2023&#x2014;KB5026363 (OS Build 14393.5921)- EXPIRED",
             "releaseDate": "2023-05-09",
             "releaseVersion": "14393.5921",
             "updateUrl": "https://support.microsoft.com/help/5026363"
         },
         "KB5027219": {
-            "heading": "June 13, 2023&#x2014;KB5027219 (OS Build 14393.5989) ",
+            "heading": "June 13, 2023&#x2014;KB5027219 (OS Build 14393.5989)- EXPIRED",
             "releaseDate": "2023-06-13",
             "releaseVersion": "14393.5989",
             "updateUrl": "https://support.microsoft.com/help/5027219"
         },
         "KB5028169": {
-            "heading": "July 11, 2023&#x2014;KB5028169 (OS Build 14393.6085) ",
+            "heading": "July 11, 2023&#x2014;KB5028169 (OS Build 14393.6085)- EXPIRED",
             "releaseDate": "2023-07-11",
             "releaseVersion": "14393.6085",
             "updateUrl": "https://support.microsoft.com/help/5028169"
@@ -3426,55 +3435,55 @@
             "updateUrl": "https://support.microsoft.com/help/5028623"
         },
         "KB5029242": {
-            "heading": "August 8, 2023&#x2014;KB5029242 (OS Build 14393.6167) ",
+            "heading": "August 8, 2023&#x2014;KB5029242 (OS Build 14393.6167)- EXPIRED",
             "releaseDate": "2023-08-08",
             "releaseVersion": "14393.6167",
             "updateUrl": "https://support.microsoft.com/help/5029242"
         },
         "KB5030213": {
-            "heading": "September 12, 2023&#x2014;KB5030213 (OS Build 14393.6252) ",
+            "heading": "September 12, 2023&#x2014;KB5030213 (OS Build 14393.6252)- EXPIRED",
             "releaseDate": "2023-09-12",
             "releaseVersion": "14393.6252",
             "updateUrl": "https://support.microsoft.com/help/5030213"
         },
         "KB5031362": {
-            "heading": "October 10, 2023&#x2014;KB5031362 (OS Build 14393.6351) ",
+            "heading": "October 10, 2023&#x2014;KB5031362 (OS Build 14393.6351)- EXPIRED",
             "releaseDate": "2023-10-10",
             "releaseVersion": "14393.6351",
             "updateUrl": "https://support.microsoft.com/help/5031362"
         },
         "KB5032197": {
-            "heading": "November 14, 2023&#x2014;KB5032197 (OS Build 14393.6452) ",
+            "heading": "November 14, 2023&#x2014;KB5032197 (OS Build 14393.6452)- EXPIRED",
             "releaseDate": "2023-11-14",
             "releaseVersion": "14393.6452",
             "updateUrl": "https://support.microsoft.com/help/5032197"
         },
         "KB5033373": {
-            "heading": "December 12, 2023&#x2014;KB5033373 (OS Build 14393.6529) ",
+            "heading": "December 12, 2023&#x2014;KB5033373 (OS Build 14393.6529)- EXPIRED",
             "releaseDate": "2023-12-12",
             "releaseVersion": "14393.6529",
             "updateUrl": "https://support.microsoft.com/help/5033373"
         },
         "KB5034119": {
-            "heading": "January 9, 2024&#x2014;KB5034119 (OS Build 14393.6614) ",
+            "heading": "January 9, 2024&#x2014;KB5034119 (OS Build 14393.6614)- EXPIRED",
             "releaseDate": "2024-01-09",
             "releaseVersion": "14393.6614",
             "updateUrl": "https://support.microsoft.com/help/5034119"
         },
         "KB5034767": {
-            "heading": "February 13, 2024&#x2014;KB5034767 (OS Build 14393.6709) ",
+            "heading": "February 13, 2024&#x2014;KB5034767 (OS Build 14393.6709)- EXPIRED",
             "releaseDate": "2024-02-13",
             "releaseVersion": "14393.6709",
             "updateUrl": "https://support.microsoft.com/help/5034767"
         },
         "KB5035855": {
-            "heading": "March 12, 2024&#x2014;KB5035855 (OS Build 14393.6796) ",
+            "heading": "March 12, 2024&#x2014;KB5035855 (OS Build 14393.6796)- EXPIRED",
             "releaseDate": "2024-03-12",
             "releaseVersion": "14393.6796",
             "updateUrl": "https://support.microsoft.com/help/5035855"
         },
         "KB5036899": {
-            "heading": "April 9, 2024&#x2014;KB5036899 (OS Build 14393.6897)",
+            "heading": "April 9, 2024&#x2014;KB5036899 (OS Build 14393.6897)- EXPIRED",
             "releaseDate": "2024-04-09",
             "releaseVersion": "14393.6897",
             "updateUrl": "https://support.microsoft.com/help/5036899"
@@ -3486,37 +3495,37 @@
             "updateUrl": "https://support.microsoft.com/help/5037423"
         },
         "KB5037763": {
-            "heading": "May 14, 2024&#x2014;KB5037763 (OS Build 14393.6981)",
+            "heading": "May 14, 2024&#x2014;KB5037763 (OS Build 14393.6981)- EXPIRED",
             "releaseDate": "2024-05-14",
             "releaseVersion": "14393.6981",
             "updateUrl": "https://support.microsoft.com/help/5037763"
         },
         "KB5039214": {
-            "heading": "June 11, 2024&#x2014;KB5039214 (OS Build 14393.7070)",
+            "heading": "June 11, 2024&#x2014;KB5039214 (OS Build 14393.7070)- EXPIRED",
             "releaseDate": "2024-06-11",
             "releaseVersion": "14393.7070",
             "updateUrl": "https://support.microsoft.com/help/5039214"
         },
         "KB5040434": {
-            "heading": "July 9, 2024&#x2014;KB5040434 (OS Build 14393.7159)",
+            "heading": "July 9, 2024&#x2014;KB5040434 (OS Build 14393.7159)- EXPIRED",
             "releaseDate": "2024-07-09",
             "releaseVersion": "14393.7159",
             "updateUrl": "https://support.microsoft.com/help/5040434"
         },
         "KB5041773": {
-            "heading": "August 13, 2024&#x2014;KB5041773 (OS Build 14393.7259)",
+            "heading": "August 13, 2024&#x2014;KB5041773 (OS Build 14393.7259)- EXPIRED",
             "releaseDate": "2024-08-13",
             "releaseVersion": "14393.7259",
             "updateUrl": "https://support.microsoft.com/help/5041773"
         },
         "KB5043051": {
-            "heading": "September 10, 2024&#x2014;KB5043051 (OS Build 14393.7336)",
+            "heading": "September 10, 2024&#x2014;KB5043051 (OS Build 14393.7336)- EXPIRED",
             "releaseDate": "2024-09-10",
             "releaseVersion": "14393.7336",
             "updateUrl": "https://support.microsoft.com/help/5043051"
         },
         "KB5044293": {
-            "heading": "October 8, 2024&#x2014;KB5044293 (OS Build 14393.7428)",
+            "heading": "October 8, 2024&#x2014;KB5044293 (OS Build 14393.7428)- EXPIRED",
             "releaseDate": "2024-10-08",
             "releaseVersion": "14393.7428",
             "updateUrl": "https://support.microsoft.com/help/5044293"
@@ -5802,7 +5811,7 @@
             "updateUrl": "https://support.microsoft.com/help/5016690"
         },
         "KB5017315": {
-            "heading": "September 13, 2022&#x2014;KB5017315 (OS Build 17763.3406)",
+            "heading": "September 13, 2022&#x2014;KB5017315 (OS Build 17763.3406)- EXPIRED",
             "releaseDate": "2022-09-13",
             "releaseVersion": "17763.3406",
             "updateUrl": "https://support.microsoft.com/help/5017315"
@@ -5814,13 +5823,13 @@
             "updateUrl": "https://support.microsoft.com/help/5017379"
         },
         "KB5018419": {
-            "heading": "October 11, 2022&#x2014;KB5018419 (OS Build 17763.3532)",
+            "heading": "October 11, 2022&#x2014;KB5018419 (OS Build 17763.3532)- EXPIRED",
             "releaseDate": "2022-10-11",
             "releaseVersion": "17763.3532",
             "updateUrl": "https://support.microsoft.com/help/5018419"
         },
         "KB5019966": {
-            "heading": "November 8, 2022&#x2014;KB5019966 (OS Build 17763.3650)",
+            "heading": "November 8, 2022&#x2014;KB5019966 (OS Build 17763.3650)- EXPIRED",
             "releaseDate": "2022-11-08",
             "releaseVersion": "17763.3650",
             "updateUrl": "https://support.microsoft.com/help/5019966"
@@ -5832,7 +5841,7 @@
             "updateUrl": "https://support.microsoft.com/help/5020438"
         },
         "KB5021237": {
-            "heading": "December 13, 2022&#x2014;KB5021237 (OS Build 17763.3770)",
+            "heading": "December 13, 2022&#x2014;KB5021237 (OS Build 17763.3770)- EXPIRED",
             "releaseDate": "2022-12-13",
             "releaseVersion": "17763.3770",
             "updateUrl": "https://support.microsoft.com/help/5021237"
@@ -5844,7 +5853,7 @@
             "updateUrl": "https://support.microsoft.com/help/5021655"
         },
         "KB5022286": {
-            "heading": "January 10, 2023&#x2014;KB5022286 (OS Build 17763.3887)",
+            "heading": "January 10, 2023&#x2014;KB5022286 (OS Build 17763.3887)- EXPIRED",
             "releaseDate": "2023-01-10",
             "releaseVersion": "17763.3887",
             "updateUrl": "https://support.microsoft.com/help/5022286"
@@ -5856,91 +5865,91 @@
             "updateUrl": "https://support.microsoft.com/help/5022554"
         },
         "KB5022840": {
-            "heading": "February 14, 2023&#x2014;KB5022840 (OS Build 17763.4010)",
+            "heading": "February 14, 2023&#x2014;KB5022840 (OS Build 17763.4010)- EXPIRED",
             "releaseDate": "2023-02-14",
             "releaseVersion": "17763.4010",
             "updateUrl": "https://support.microsoft.com/help/5022840"
         },
         "KB5023702": {
-            "heading": "March 14, 2023&#x2014;KB5023702 (OS Build 17763.4131)",
+            "heading": "March 14, 2023&#x2014;KB5023702 (OS Build 17763.4131)- EXPIRED",
             "releaseDate": "2023-03-14",
             "releaseVersion": "17763.4131",
             "updateUrl": "https://support.microsoft.com/help/5023702"
         },
         "KB5025229": {
-            "heading": "April 11, 2023&#x2014;KB5025229 (OS Build 17763.4252)",
+            "heading": "April 11, 2023&#x2014;KB5025229 (OS Build 17763.4252)- EXPIRED",
             "releaseDate": "2023-04-11",
             "releaseVersion": "17763.4252",
             "updateUrl": "https://support.microsoft.com/help/5025229"
         },
         "KB5026362": {
-            "heading": "May 9, 2023&#x2014;KB5026362 (OS Build 17763.4377)",
+            "heading": "May 9, 2023&#x2014;KB5026362 (OS Build 17763.4377)- EXPIRED",
             "releaseDate": "2023-05-09",
             "releaseVersion": "17763.4377",
             "updateUrl": "https://support.microsoft.com/help/5026362"
         },
         "KB5027222": {
-            "heading": "June 13, 2023&#x2014;KB5027222 (OS Build 17763.4499)",
+            "heading": "June 13, 2023&#x2014;KB5027222 (OS Build 17763.4499)- EXPIRED",
             "releaseDate": "2023-06-13",
             "releaseVersion": "17763.4499",
             "updateUrl": "https://support.microsoft.com/help/5027222"
         },
         "KB5028168": {
-            "heading": "July 11, 2023&#x2014;KB5028168 (OS Build 17763.4645)",
+            "heading": "July 11, 2023&#x2014;KB5028168 (OS Build 17763.4645)- EXPIRED",
             "releaseDate": "2023-07-11",
             "releaseVersion": "17763.4645",
             "updateUrl": "https://support.microsoft.com/help/5028168"
         },
         "KB5029247": {
-            "heading": "August 8, 2023&#x2014;KB5029247 (OS Build 17763.4737)",
+            "heading": "August 8, 2023&#x2014;KB5029247 (OS Build 17763.4737)- EXPIRED",
             "releaseDate": "2023-08-08",
             "releaseVersion": "17763.4737",
             "updateUrl": "https://support.microsoft.com/help/5029247"
         },
         "KB5030214": {
-            "heading": "September 12, 2023&#x2014;KB5030214 (OS Build 17763.4851)",
+            "heading": "September 12, 2023&#x2014;KB5030214 (OS Build 17763.4851)- EXPIRED",
             "releaseDate": "2023-09-12",
             "releaseVersion": "17763.4851",
             "updateUrl": "https://support.microsoft.com/help/5030214"
         },
         "KB5031361": {
-            "heading": "October 10, 2023&#x2014;KB5031361 (OS Build 17763.4974)",
+            "heading": "October 10, 2023&#x2014;KB5031361 (OS Build 17763.4974)- EXPIRED",
             "releaseDate": "2023-10-10",
             "releaseVersion": "17763.4974",
             "updateUrl": "https://support.microsoft.com/help/5031361"
         },
         "KB5032196": {
-            "heading": "November 14, 2023&#x2014;KB5032196 (OS Build 17763.5122)",
+            "heading": "November 14, 2023&#x2014;KB5032196 (OS Build 17763.5122)- EXPIRED",
             "releaseDate": "2023-11-14",
             "releaseVersion": "17763.5122",
             "updateUrl": "https://support.microsoft.com/help/5032196"
         },
         "KB5033371": {
-            "heading": "December 12, 2023&#x2014;KB5033371 (OS Build 17763.5206)",
+            "heading": "December 12, 2023&#x2014;KB5033371 (OS Build 17763.5206)- EXPIRED",
             "releaseDate": "2023-12-12",
             "releaseVersion": "17763.5206",
             "updateUrl": "https://support.microsoft.com/help/5033371"
         },
         "KB5034127": {
-            "heading": "January 9, 2024&#x2014;KB5034127 (OS Build 17763.5329)",
+            "heading": "January 9, 2024&#x2014;KB5034127 (OS Build 17763.5329)- EXPIRED",
             "releaseDate": "2024-01-09",
             "releaseVersion": "17763.5329",
             "updateUrl": "https://support.microsoft.com/help/5034127"
         },
         "KB5034768": {
-            "heading": "February 13, 2024&#x2014;KB5034768 (OS Build 17763.5458)",
+            "heading": "February 13, 2024&#x2014;KB5034768 (OS Build 17763.5458)- EXPIRED",
             "releaseDate": "2024-02-13",
             "releaseVersion": "17763.5458",
             "updateUrl": "https://support.microsoft.com/help/5034768"
         },
         "KB5035849": {
-            "heading": "March 12, 2024&#x2014;KB5035849 (OS Build 17763.5576)",
+            "heading": "March 12, 2024&#x2014;KB5035849 (OS Build 17763.5576)- EXPIRED",
             "releaseDate": "2024-03-12",
             "releaseVersion": "17763.5576",
             "updateUrl": "https://support.microsoft.com/help/5035849"
         },
         "KB5036896": {
-            "heading": "April 9, 2024&#x2014;KB5036896 (OS Build 17763.5696)",
+            "heading": "April 9, 2024&#x2014;KB5036896 (OS Build 17763.5696)- EXPIRED",
             "releaseDate": "2024-04-09",
             "releaseVersion": "17763.5696",
             "updateUrl": "https://support.microsoft.com/help/5036896"
@@ -5952,55 +5961,55 @@
             "updateUrl": "https://support.microsoft.com/help/5037425"
         },
         "KB5037765": {
-            "heading": "May 14, 2024&#x2014;KB5037765 (OS Build 17763.5820)",
+            "heading": "May 14, 2024&#x2014;KB5037765 (OS Build 17763.5820)- EXPIRED",
             "releaseDate": "2024-05-14",
             "releaseVersion": "17763.5820",
             "updateUrl": "https://support.microsoft.com/help/5037765"
         },
         "KB5039217": {
-            "heading": "June 11, 2024&#x2014;KB5039217 (OS Build 17763.5936)",
+            "heading": "June 11, 2024&#x2014;KB5039217 (OS Build 17763.5936)- EXPIRED",
             "releaseDate": "2024-06-11",
             "releaseVersion": "17763.5936",
             "updateUrl": "https://support.microsoft.com/help/5039217"
         },
         "KB5039705": {
-            "heading": "May 23, 2024&#x2014;KB5039705 (OS Build 17763.5830) Out-of-band",
+            "heading": "May 23, 2024&#x2014;KB5039705 (OS Build 17763.5830) Out-of-band- EXPIRED",
             "releaseDate": "2024-05-23",
             "releaseVersion": "17763.5830",
             "updateUrl": "https://support.microsoft.com/help/5039705"
         },
         "KB5040430": {
-            "heading": "July 9, 2024&#x2014;KB5040430 (OS Build 17763.6054)",
+            "heading": "July 9, 2024&#x2014;KB5040430 (OS Build 17763.6054)- EXPIRED",
             "releaseDate": "2024-07-09",
             "releaseVersion": "17763.6054",
             "updateUrl": "https://support.microsoft.com/help/5040430"
         },
         "KB5041578": {
-            "heading": "August 13, 2024&#x2014;KB5041578 (OS Build 17763.6189)",
+            "heading": "August 13, 2024&#x2014;KB5041578 (OS Build 17763.6189)- EXPIRED",
             "releaseDate": "2024-08-13",
             "releaseVersion": "17763.6189",
             "updateUrl": "https://support.microsoft.com/help/5041578"
         },
         "KB5043050": {
-            "heading": "September 10, 2024&#x2014;KB5043050 (OS Build 17763.6293)",
+            "heading": "September 10, 2024&#x2014;KB5043050 (OS Build 17763.6293)- EXPIRED",
             "releaseDate": "2024-09-10",
             "releaseVersion": "17763.6293",
             "updateUrl": "https://support.microsoft.com/help/5043050"
         },
         "KB5044277": {
-            "heading": "October 8, 2024&#x2014;KB5044277 (OS Build 17763.6414)",
+            "heading": "October 8, 2024&#x2014;KB5044277 (OS Build 17763.6414)- EXPIRED",
             "releaseDate": "2024-10-08",
             "releaseVersion": "17763.6414",
             "updateUrl": "https://support.microsoft.com/help/5044277"
         },
         "KB5046615": {
-            "heading": "November 12, 2024&#x2014;KB5046615 (OS Build 17763.6532)",
+            "heading": "November 12, 2024&#x2014;KB5046615 (OS Build 17763.6532)- EXPIRED",
             "releaseDate": "2024-11-12",
             "releaseVersion": "17763.6532",
             "updateUrl": "https://support.microsoft.com/help/5046615"
         },
         "KB5048661": {
-            "heading": "December 10, 2024&#x2014;KB5048661 (OS Build 17763.6659)",
+            "heading": "December 10, 2024&#x2014;KB5048661 (OS Build 17763.6659)- EXPIRED",
             "releaseDate": "2024-12-10",
             "releaseVersion": "17763.6659",
             "updateUrl": "https://support.microsoft.com/help/5048661"
@@ -6012,19 +6021,19 @@
             "updateUrl": "https://support.microsoft.com/help/5050008"
         },
         "KB5052000": {
-            "heading": "February 11, 2025&#x2014;KB5052000 (OS Build 17763.6893)",
+            "heading": "February 11, 2025&#x2014;KB5052000 (OS Build 17763.6893)- EXPIRED",
             "releaseDate": "2025-02-11",
             "releaseVersion": "17763.6893",
             "updateUrl": "https://support.microsoft.com/help/5052000"
         },
         "KB5053596": {
-            "heading": "March 11, 2025&#x2014;KB5053596 (OS Build 17763.7009)",
+            "heading": "March 11, 2025&#x2014;KB5053596 (OS Build 17763.7009)- EXPIRED",
             "releaseDate": "2025-03-11",
             "releaseVersion": "17763.7009",
             "updateUrl": "https://support.microsoft.com/help/5053596"
         },
         "KB5055519": {
-            "heading": "April 8, 2025&#x2014;KB5055519 (OS Build 17763.7136)",
+            "heading": "April 8, 2025&#x2014;KB5055519 (OS Build 17763.7136)- EXPIRED",
             "releaseDate": "2025-04-08",
             "releaseVersion": "17763.7136",
             "updateUrl": "https://support.microsoft.com/help/5055519"
@@ -7328,7 +7337,7 @@
             "updateUrl": "https://support.microsoft.com/help/5021233"
         },
         "KB5022282": {
-            "heading": "January 10, 2023&#x2014;KB5022282 (OS Builds 19042.2486, 19044.2486, and 19045.2486)",
+            "heading": "January 10, 2023&#x2014;KB5022282 (OS Builds 19042.2486, 19044.2486, and 19045.2486)- EXPIRED",
             "otherWindowsVersions": [
                 "21H2",
                 "22H2"
@@ -7338,7 +7347,7 @@
             "updateUrl": "https://support.microsoft.com/help/5022282"
         },
         "KB5022834": {
-            "heading": "February 14, 2023&#x2014;KB5022834 (OS Builds 19042.2604, 19044.2604, and 19045.2604)",
+            "heading": "February 14, 2023&#x2014;KB5022834 (OS Builds 19042.2604, 19044.2604, and 19045.2604)- EXPIRED",
             "otherWindowsVersions": [
                 "21H2",
                 "22H2"
@@ -7378,7 +7387,7 @@
             "updateUrl": "https://support.microsoft.com/help/5023773"
         },
         "KB5025221": {
-            "heading": "April 11, 2023&#x2014;KB5025221 (OS Builds 19042.2846, 19044.2846, and 19045.2846)",
+            "heading": "April 11, 2023&#x2014;KB5025221 (OS Builds 19042.2846, 19044.2846, and 19045.2846)- EXPIRED",
             "otherWindowsVersions": [
                 "21H2",
                 "22H2"
@@ -7388,7 +7397,7 @@
             "updateUrl": "https://support.microsoft.com/help/5025221"
         },
         "KB5026361": {
-            "heading": "May 9, 2023&#x2014;KB5026361 (OS Builds 19042.2965, 19044.2965, and 19045.2965)",
+            "heading": "May 9, 2023&#x2014;KB5026361 (OS Builds 19042.2965, 19044.2965, and 19045.2965)- EXPIRED",
             "otherWindowsVersions": [
                 "21H2",
                 "22H2"
@@ -7409,7 +7418,7 @@
             "updateUrl": "https://support.microsoft.com/help/5027215"
         },
         "KB5028166": {
-            "heading": "July 11, 2023&#x2014;KB5028166 (OS Builds 19044.3208 and 19045.3208)",
+            "heading": "July 11, 2023&#x2014;KB5028166 (OS Builds 19044.3208 and 19045.3208)- EXPIRED",
             "otherWindowsVersions": [
                 "22H2"
             ],
@@ -7418,7 +7427,7 @@
             "updateUrl": "https://support.microsoft.com/help/5028166"
         },
         "KB5029244": {
-            "heading": "August 8, 2023&#x2014;KB5029244 (OS Builds 19044.3324 and 19045.3324)",
+            "heading": "August 8, 2023&#x2014;KB5029244 (OS Builds 19044.3324 and 19045.3324)- EXPIRED",
             "otherWindowsVersions": [
                 "22H2"
             ],
@@ -7436,7 +7445,7 @@
             "updateUrl": "https://support.microsoft.com/help/5030211"
         },
         "KB5031356": {
-            "heading": "October 10, 2023&#x2014;KB5031356 (OS Builds 19044.3570 and 19045.3570)",
+            "heading": "October 10, 2023&#x2014;KB5031356 (OS Builds 19044.3570 and 19045.3570)- EXPIRED",
             "otherWindowsVersions": [
                 "22H2"
             ],
@@ -7454,7 +7463,7 @@
             "updateUrl": "https://support.microsoft.com/help/5032189"
         },
         "KB5033372": {
-            "heading": "December 12, 2023&#x2014;KB5033372 (OS Builds 19044.3803 and 19045.3803)",
+            "heading": "December 12, 2023&#x2014;KB5033372 (OS Builds 19044.3803 and 19045.3803)- EXPIRED",
             "otherWindowsVersions": [
                 "22H2"
             ],
@@ -7472,7 +7481,7 @@
             "updateUrl": "https://support.microsoft.com/help/5034122"
         },
         "KB5034763": {
-            "heading": "February 13, 2024&#x2014;KB5034763 (OS Builds 19044.4046 and 19045.4046)",
+            "heading": "February 13, 2024&#x2014;KB5034763 (OS Builds 19044.4046 and 19045.4046)- EXPIRED",
             "otherWindowsVersions": [
                 "22H2"
             ],
@@ -7490,7 +7499,7 @@
             "updateUrl": "https://support.microsoft.com/help/5035845"
         },
         "KB5036892": {
-            "heading": "April 9, 2024&#x2014;KB5036892 (OS Builds 19044.4291 and 19045.4291)",
+            "heading": "April 9, 2024&#x2014;KB5036892 (OS Builds 19044.4291 and 19045.4291)- EXPIRED",
             "otherWindowsVersions": [
                 "22H2"
             ],
@@ -7508,7 +7517,7 @@
             "updateUrl": "https://support.microsoft.com/help/5037768"
         },
         "KB5039211": {
-            "heading": "June 11, 2024&#x2014;KB5039211 (OS Builds 19044.4529 and 19045.4529)",
+            "heading": "June 11, 2024&#x2014;KB5039211 (OS Builds 19044.4529 and 19045.4529)- EXPIRED",
             "otherWindowsVersions": [
                 "22H2"
             ],
@@ -7526,7 +7535,7 @@
             "updateUrl": "https://support.microsoft.com/help/5040427"
         },
         "KB5041580": {
-            "heading": "August 13, 2024&#x2014;KB5041580 (OS Builds 19044.4780 and 19045.4780)",
+            "heading": "August 13, 2024&#x2014;KB5041580 (OS Builds 19044.4780 and 19045.4780)- EXPIRED",
             "otherWindowsVersions": [
                 "22H2"
             ],
@@ -7544,7 +7553,7 @@
             "updateUrl": "https://support.microsoft.com/help/5043064"
         },
         "KB5044273": {
-            "heading": "October 8, 2024&#x2014;KB5044273 (OS Builds 19044.5011 and 19045.5011)",
+            "heading": "October 8, 2024&#x2014;KB5044273 (OS Builds 19044.5011 and 19045.5011)- EXPIRED",
             "otherWindowsVersions": [
                 "22H2"
             ],
@@ -7562,7 +7571,7 @@
             "updateUrl": "https://support.microsoft.com/help/5046613"
         },
         "KB5048652": {
-            "heading": "December 10, 2024&#x2014;KB5048652 (OS Builds 19044.5247 and 19045.5247)",
+            "heading": "December 10, 2024&#x2014;KB5048652 (OS Builds 19044.5247 and 19045.5247)- EXPIRED",
             "otherWindowsVersions": [
                 "22H2"
             ],
@@ -7580,7 +7589,7 @@
             "updateUrl": "https://support.microsoft.com/help/5049981"
         },
         "KB5051974": {
-            "heading": "February 11, 2025&#x2014;KB5051974 (OS Builds 19044.5487 and 19045.5487)",
+            "heading": "February 11, 2025&#x2014;KB5051974 (OS Builds 19044.5487 and 19045.5487)- EXPIRED",
             "otherWindowsVersions": [
                 "22H2"
             ],
@@ -7598,7 +7607,7 @@
             "updateUrl": "https://support.microsoft.com/help/5053606"
         },
         "KB5055518": {
-            "heading": "April 8, 2025&#x2014;KB5055518 (OS Builds 19044.5737 and 19045.5737)",
+            "heading": "April 8, 2025&#x2014;KB5055518 (OS Builds 19044.5737 and 19045.5737)- EXPIRED",
             "otherWindowsVersions": [
                 "22H2"
             ],
@@ -7616,7 +7625,7 @@
             "updateUrl": "https://support.microsoft.com/help/5058379"
         },
         "KB5060533": {
-            "heading": "June 10, 2025&#x2014;KB5060533 (OS Builds 19044.5965 and 19045.5965)",
+            "heading": "June 10, 2025&#x2014;KB5060533 (OS Builds 19044.5965 and 19045.5965)- EXPIRED",
             "otherWindowsVersions": [
                 "22H2"
             ],
